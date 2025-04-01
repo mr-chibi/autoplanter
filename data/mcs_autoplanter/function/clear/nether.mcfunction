@@ -1,0 +1,1 @@
+$execute if block ~ ~1 ~ minecraft:nether_wart[age=0] run clear @s[tag=nether_wart] $(id) 1

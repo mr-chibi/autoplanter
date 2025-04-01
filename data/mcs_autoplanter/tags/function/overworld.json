@@ -1,0 +1,8 @@
+{
+	"values": [
+
+		// Overworld Crops:
+		"mcs_autoplanter:plant/overworld",
+		"mcs_autoplanter:clear/overworld"
+	]
+}
