@@ -1,7 +1,5 @@
 {
 	"values":[
-		
-		// Nether Crops:
 		"mcs_autoplanter:plant/nether",
 		"mcs_autoplanter:clear/nether"
 	]

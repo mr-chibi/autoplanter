@@ -1,7 +1,5 @@
 {
 	"values":[
-		
-		// Nether Crops:
 		"mcs_autoplanter:tags/add_crops",
 		"mcs_autoplanter:tags/remove_crops"
 	]
